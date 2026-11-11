@@ -1,5 +1,4 @@
 # python-expense-tracker
-# Python Expense Tracker
 
 A simple expense tracking application built using Python.
 
